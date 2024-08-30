@@ -23,8 +23,12 @@ namespace Httpserver
             if (String.IsNullOrEmpty(Request))
                 return null;
             string []Tokens= Request.Split(" ");
+            if (Tokens.Length == 1)
+            {
+                return null;
+            }
             string type=Tokens[0];
-            string url=Tokens[1];
+            string url= Tokens[1];
             string host=Tokens[4];  
             return new Request(url, type, host);
         }

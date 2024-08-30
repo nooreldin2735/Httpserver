@@ -3,20 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nooreldin\\AppData\\Local\\SourceServer\\9e6edc835042619b502bff56426ad4334c0d006b0528abb138f5df59b2dc930e\\Httpserver\\Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,46 +41,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Nooreldin\\AppData\\Local\\SourceServer\\9e6edc835042619b502bff56426ad4334c0d006b0528abb138f5df59b2dc930e\\Httpserver\\Request.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\9e6edc835042619b502bff56426ad4334c0d006b0528abb138f5df59b2dc930e\\Httpserver\\Request.cs",
+              "ToolTip": "C:\\Users\\Nooreldin\\AppData\\Local\\SourceServer\\9e6edc835042619b502bff56426ad4334c0d006b0528abb138f5df59b2dc930e\\Httpserver\\Request.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\9e6edc835042619b502bff56426ad4334c0d006b0528abb138f5df59b2dc930e\\Httpserver\\Request.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:34:58.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Response.cs",
               "RelativeDocumentMoniker": "Httpserver\\Response.cs",
               "ToolTip": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Response.cs",
               "RelativeToolTip": "Httpserver\\Response.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAADgv0gAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T16:57:46.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HttpServer.cs",
               "DocumentMoniker": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\HttpServer.cs",
               "RelativeDocumentMoniker": "Httpserver\\HttpServer.cs",
               "ToolTip": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\HttpServer.cs",
               "RelativeToolTip": "Httpserver\\HttpServer.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAACEAAAAdAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T16:57:28.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Request.cs",
               "DocumentMoniker": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Request.cs",
               "RelativeDocumentMoniker": "Httpserver\\Request.cs",
               "ToolTip": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Request.cs",
               "RelativeToolTip": "Httpserver\\Request.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAASwBsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T13:36:05.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Program.cs",
               "RelativeDocumentMoniker": "Httpserver\\Program.cs",
@@ -85,8 +101,7 @@
               "RelativeToolTip": "Httpserver\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T16:57:10.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T16:57:10.357Z"
             }
           ]
         }

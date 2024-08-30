@@ -23,7 +23,7 @@ namespace Httpserver
         }
         public void Start()
         {
-            Thread thread = new  Thread(new ThreadStart(Run));
+            Thread thread=new Thread(new ThreadStart(Run));
             thread.Start();
 
         }
@@ -47,9 +47,11 @@ namespace Httpserver
         {
             StreamReader reader = new StreamReader(client.GetStream());
             string msg = "";
-            while (reader.Peek() != -1)
+            int i = 0;
+            while (i!=6)
             {
                 msg += reader.ReadLine()+"\n";
+                i++;
             }
             Console.WriteLine("Reguest::" +msg );
             Request reg = Request.GetRequest(msg);

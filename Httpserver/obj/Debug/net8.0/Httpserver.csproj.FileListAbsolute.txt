@@ -12,3 +12,4 @@ C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\refint\Ht
 C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\Httpserver.pdb
 C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\Httpserver.genruntimeconfig.cache
 C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\ref\Httpserver.dll
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\Httpserver.sourcelink.json

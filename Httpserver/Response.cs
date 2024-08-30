@@ -34,7 +34,7 @@ namespace Httpserver
                 else
                 {
 
-                    DirectoryInfo di =new DirectoryInfo(file);
+                    DirectoryInfo di =new DirectoryInfo(file+"/");
                     if (!di.Exists)
                     {
                         return MakePageNotFound();
@@ -45,6 +45,7 @@ namespace Httpserver
                         string filename=ff.Name;
                         if (filename.Contains("default.html") || filename.Contains("index.html") || filename.Contains("index.htm")){
                             fileInfo = ff;
+                            return MakeFromFile(fileInfo);
                         }
                     }
                 }
@@ -69,7 +70,7 @@ namespace Httpserver
             Byte[] d = new Byte[fileStream.Length];
             binaryReader.Read(d, 0, d.Length);
             fileStream.Close();
-            return new Response("200 Ok", d, "text/html");
+            return new Response("200 Ok", d, "html/text");
         }
 
         private static Response MakeNullResquest()
@@ -107,7 +108,8 @@ namespace Httpserver
 
         public void Post(NetworkStream stream) {
             StreamWriter writer = new StreamWriter(stream);
-            writer.Write(
+            writer.AutoFlush = true;
+            writer.WriteLine(
                 String.Format("{0} {1}\r\nServer: {2}\r\nContent-Type: {3}\r\nAccept-Ranges: bytes\r\nContent-Length: {4}\r\n",
                 HttpServer.Version,
                 status,  
@@ -115,8 +117,12 @@ namespace Httpserver
                 mime,
                 data.Length)
                 );
-            
-            stream.Write(data,0,data.Length);
+
+            if (stream != null)
+            {
+                stream.Write(data, 0, data.Length);
+            }
+
         }
 
     }
