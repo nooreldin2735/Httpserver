@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|c:\\users\\nooreldin\\source\\repos\\httpserver\\httpserver\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52C6337-B460-49FC-8F52-A060FE98E5CE}|Httpserver\\Httpserver.csproj|solutionrelative:httpserver\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Response.cs",
+              "RelativeDocumentMoniker": "Httpserver\\Response.cs",
+              "ToolTip": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Response.cs",
+              "RelativeToolTip": "Httpserver\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:57:46.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\HttpServer.cs",
+              "RelativeDocumentMoniker": "Httpserver\\HttpServer.cs",
+              "ToolTip": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\HttpServer.cs",
+              "RelativeToolTip": "Httpserver\\HttpServer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:57:28.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Request.cs",
+              "RelativeDocumentMoniker": "Httpserver\\Request.cs",
+              "ToolTip": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Request.cs",
+              "RelativeToolTip": "Httpserver\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:36:05.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Program.cs",
+              "RelativeDocumentMoniker": "Httpserver\\Program.cs",
+              "ToolTip": "C:\\Users\\Nooreldin\\source\\repos\\Httpserver\\Httpserver\\Program.cs",
+              "RelativeToolTip": "Httpserver\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:57:10.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

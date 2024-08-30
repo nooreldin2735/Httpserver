@@ -1,0 +1,14 @@
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\bin\Debug\net8.0\Httpserver.exe
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\bin\Debug\net8.0\Httpserver.deps.json
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\bin\Debug\net8.0\Httpserver.runtimeconfig.json
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\bin\Debug\net8.0\Httpserver.dll
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\bin\Debug\net8.0\Httpserver.pdb
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\Httpserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\Httpserver.AssemblyInfoInputs.cache
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\Httpserver.AssemblyInfo.cs
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\Httpserver.csproj.CoreCompileInputs.cache
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\Httpserver.dll
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\refint\Httpserver.dll
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\Httpserver.pdb
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\Httpserver.genruntimeconfig.cache
+C:\Users\Nooreldin\source\repos\Httpserver\Httpserver\obj\Debug\net8.0\ref\Httpserver.dll
